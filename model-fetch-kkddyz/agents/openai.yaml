@@ -1,4 +1,4 @@
 interface:
   display_name: "Model Fetch (kkddyz)"
   short_description: "Download public models with source fallback and integrity checks"
-  default_prompt: "Use $model-fetch-kkddyz to download explicitly specified public model files and verify them."
+  default_prompt: "Use $model-fetch-kkddyz after confirming the exact public model repository and, for multi-quantization repositories, the exact file; download to the default LM Studio path, try scripted sources first, use the dedicated CDP browser fallback only for command-line transport failures, show terminal or browser progress, separately relay actual speed, ETA, transferred size, and 10/25/50/75/90/100% chat milestones (including the 60-second under-10% warning) without estimating them manually, then verify it."
