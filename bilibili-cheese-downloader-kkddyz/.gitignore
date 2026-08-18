@@ -1,0 +1,12 @@
+__pycache__/
+.git/
+*.py[cod]
+.venv/
+.tools/
+output/
+download/
+*.part
+*.ytdl
+course-manifest.json
+.runtime-manifest.json
+*.zip

@@ -1,0 +1,4 @@
+# Install in a dedicated virtual environment. These direct dependencies are pinned.
+bilibili-api-python==17.4.2
+aiohttp==3.14.3
+yt-dlp==2026.07.04

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Bilibili Cheese Downloader Kkddyz"
+  short_description: "Bootstrap a local runtime and fetch authorized Bilibili course videos"
