@@ -1,0 +1,4 @@
+interface:
+  display_name: "Model Fetch (kkddyz)"
+  short_description: "Download public models with source fallback and integrity checks"
+  default_prompt: "Use $model-fetch-kkddyz to download explicitly specified public model files and verify them."
